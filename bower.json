@@ -1,0 +1,8 @@
+{
+  "name": "browsync.net",
+  "version": "0.0.37",
+  "dependencies": {
+    "bootstrap": "~3.0.0-rc1"
+  },
+  "devDependencies": {}
+}

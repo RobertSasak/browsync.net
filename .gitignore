@@ -1,0 +1,7 @@
+app/components
+browSync-homepage.sublime-workspace
+.DS_Store
+dist
+node_modules
+.ftppass
+browSync-homepage.sublime-project
